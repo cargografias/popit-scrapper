@@ -1,0 +1,9 @@
+{
+  "name": "popit-command-line-scrapper",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+      "request": ""
+
+    }
+}
